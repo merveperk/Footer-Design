@@ -1,0 +1,17 @@
+:root{
+    --dark-color:#424242;
+    --deep-dark-color:#212121;
+    --light-color:#EEEEEE;
+    --slight-light-color:#9E9E9E;
+    --border-color:#E64848;
+}
+.bg-dark{
+    background-color: var(--dark-color);
+    color: var(--light-color);
+}
+.text-slight-color{
+    color: var(--slight-light-color);
+}
+.text-light-color{
+    color: var(--light-color);
+}
